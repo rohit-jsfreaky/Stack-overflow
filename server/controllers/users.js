@@ -92,7 +92,7 @@ export const forgotPassword = async (req, res) => {
       to: email,
       subject: 'Test Email',
       html: `<p>You requested for a password reset</p>
-      <p>Click this <a href="${process.env.CLIENT_URL}/reset-password/${user._id}/${token_server}">link</a> to reset your password</p>`
+      <p>Click this <a href="$https://stack-overflow-vklo.vercel.app/reset-password/${user._id}/${token_server}">link</a> to reset your password</p>`
 
     };
 
