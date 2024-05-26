@@ -1,0 +1,112 @@
+{
+  "Home": "Accueil",
+  "PUBLIC": "PUBLIC",
+  "Questions": "Questions",
+  "Tags": "Étiquettes",
+  "Users": "Utilisateurs",
+  "Search": "Rechercher...",
+  "About": "À propos",
+  "Products": "Produits",
+  "For Teams": "Pour les équipes",
+  "Login": "Connexion",
+  "Logout": "Déconnexion",
+  "1_right": "Barre latérale droite",
+  "Observability is key to the future of software (and your DevOps career)": "L'observabilité est la clé de l'avenir du logiciel (et de votre carrière DevOps)",
+  "Podcast 374: How valuable is your screen name?": "Podcast 374 : Quelle est la valeur de votre nom d'écran ?",
+  "Featured on Meta": "En vedette sur Meta",
+  "Review queue workflows - Final release....": "Flux de travaux de la file d'attente de révision - Version finale....",
+  "Please welcome Valued Associates: #958 - V2Blast #959 - SpencerG": "Veuillez accueillir les associés de valeur : #958 - V2Blast #959 - SpencerG",
+  "Outdated Answers: accepted answer is now unpinned on Stack Overflow": "Réponses obsolètes : la réponse acceptée n'est plus épinglée sur Stack Overflow",
+  "Hot Meta Posts": "Articles chauds sur Meta",
+  "Why was this spam flag declined, yet the question marked as spam?": "Pourquoi ce signalement de spam a-t-il été refusé, alors que la question était marquée comme spam ?",
+  "What is the best course of action when a user has high enough rep to...": "Quelle est la meilleure démarche à suivre lorsqu'un utilisateur a assez de réputation pour...",
+  "Is a link to the 'How to ask' help page a useful comment?": "Un lien vers la page d'aide 'Comment poser une question' est-il un commentaire utile ?",
+  "askQuestion.title": "Poser une question publique",
+  "askQuestion.labels.title": "Titre",
+  "askQuestion.labels.titlePlaceholder": "Soyez spécifique et imaginez que vous posez une question à une autre personne",
+  "askQuestion.labels.body": "Corps",
+  "askQuestion.labels.bodyPlaceholder": "Incluez toutes les informations dont quelqu'un aurait besoin pour répondre à votre question",
+  "askQuestion.labels.tags": "Étiquettes",
+  "askQuestion.labels.tagsPlaceholder": "Ajoutez jusqu'à 5 étiquettes pour décrire de quoi parle votre question",
+  "askQuestion.submit": "Vérifiez votre question",
+  "auth.displayName": "Nom d'affichage",
+  "auth.email": "Email",
+  "auth.password": "Mot de passe",
+  "auth.passwordHint": "Le mot de passe doit contenir au moins huit caractères, dont au moins 1 lettre et 1 chiffre",
+  "auth.optIn": "Optez pour recevoir des mises à jour occasionnelles de produits, des invitations à des recherches utilisateurs, des annonces de la société et des résumés.",
+  "auth.signup": "S'inscrire",
+  "auth.login": "Se connecter",
+  "auth.agreement": "En cliquant sur \"S'inscrire\", vous acceptez nos conditions d'utilisation, notre politique de confidentialité et notre politique de cookies",
+  "auth.alreadyHaveAccount": "Vous avez déjà un compte ?",
+  "auth.dontHaveAccount": "Vous n'avez pas de compte ?",
+  "auth.forgotPassword": "Mot de passe oublié",
+  "about.joinCommunity": "Rejoignez la communauté Stack Overflow",
+  "about.getUnstuck": "Débloquez-vous — posez une question",
+  "about.unlockPrivileges": "Débloquez de nouveaux privilèges comme le vote et les commentaires",
+  "about.saveFavorites": "Enregistrez vos tags, filtres et emplois préférés",
+  "about.earnReputation": "Gagnez en réputation et obtenez des badges",
+  "about.collaborateShare": "Collaborez et partagez vos connaissances avec un groupe privé pour",
+  "about.getTeamsFree": "Obtenez Stack Overflow for Teams gratuitement pour jusqu'à 50 utilisateurs.",
+  "home.topQuestion": "Question Principale",
+  "home.allQuestion": "Toutes les Questions",
+  "home.askQuestion": "Poser une Question",
+  "home.loginSignupAlert": "Connectez-vous ou inscrivez-vous pour poser une question",
+  "home.loading": "Chargement....",
+  "home.questionCount": "question",
+  "questionDetails.askQuestion": "Poser une Question",
+  "questionDetails.enterAnswer": "Entrez une réponse avant de soumettre",
+  "questionDetails.loginToAnswer": "Connectez-vous ou inscrivez-vous pour répondre à une question",
+  "questionDetails.share": "Partager",
+  "questionDetails.delete": "Supprimer",
+  "questionDetails.asked": "Posé",
+  "questionDetails.yourAnswer": "Votre Réponse",
+  "questionDetails.postYourAnswer": "Publiez Votre Réponse",
+  "questionDetails.browseOtherQuestions": "Parcourir d'autres questions taguées",
+  "questionDetails.or": "ou",
+  "questionDetails.askYourOwnQuestion": "posez votre propre question",
+  "tags": "Tags",
+  "description1": "Un tag est un mot-clé ou une étiquette qui catégorise votre question avec d'autres questions similaires.",
+  "description2": "Utiliser les bons tags facilite la recherche et la réponse à votre question pour les autres",
+  "tagsList": {
+    "javascript": {
+      "title": "javascript",
+      "description": "Pour les questions concernant la programmation en ECMAScript (JavaScript/JS) et ses différents dialectes/implémentations (à l'exclusion de ActionScript). Veuillez inclure toutes les balises pertinentes sur votre question."
+    },
+    "python": {
+      "title": "python",
+      "description": "Python est un langage de programmation multiparadigme, typé dynamiquement et polyvalent. Il est conçu pour être rapide à apprendre, comprendre et utiliser, et impose une syntaxe propre et uniforme."
+    },
+    "csharp": {
+      "title": "c#",
+      "description": "C# (prononcé 'see sharp') est un langage de programmation de haut niveau, typé statiquement et multiparadigme développé par Microsoft."
+    },
+    "java": {
+      "title": "java",
+      "description": "Java est un langage de programmation orienté objet de haut niveau. Utilisez ce tag lorsque vous rencontrez des problèmes pour utiliser ou comprendre le langage lui-même."
+    },
+    "php": {
+      "title": "php",
+      "description": "PHP est un langage de script de usage général, à code source ouvert, multiparadigme, typé dynamiquement et interprété, initialement conçu pour le développement web côté serveur."
+    },
+    "html": {
+      "title": "html",
+      "description": "HTML (HyperText Markup Language) est le langage de balisage pour créer des pages Web et d'autres informations à afficher dans un navigateur Web."
+    },
+    "android": {
+      "title": "android",
+      "description": "Android est le système d'exploitation mobile de Google, utilisé pour programmer ou développer des appareils numériques (smartphones, tablettes, automobiles, TV, Wear, Glass, IoT)."
+    },
+    "css": {
+      "title": "css",
+      "description": "CSS est un langage de feuille de style utilisé pour décrire l'apparence et la mise en forme des documents HTML, XML et des éléments SVG, y compris les couleurs, la mise en page, les polices et les animations."
+    },
+    "reactjs": {
+      "title": "Reactjs",
+      "description": "React est une bibliothèque JavaScript pour créer des interfaces utilisateur. Il utilise un paradigme déclaratif et basé sur les composants et vise à être à la fois efficace et flexible."
+    },
+    "nodejs": {
+      "title": "node.js",
+      "description": "Node.js est un runtime asynchrone basé sur des événements et non bloquant qui utilise le moteur JavaScript V8 de Google et la bibliothèque libuv."
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "Home": "首页",
+  "PUBLIC": "公共",
+  "Questions": "问题",
+  "Tags": "标签",
+  "Users": "用户",
+  "Search": "搜索...",
+  "About": "关于",
+  "Products": "产品",
+  "For Teams": "团队",
+  "Login": "登录",
+  "Logout": "登出",
+  "1_right": "右侧边栏",
+  "Observability is key to the future of software (and your DevOps career)": "可观察性是软件（和您的 DevOps 生涯）未来的关键",
+  "Podcast 374: How valuable is your screen name?": "播客 374：您的屏幕名称有多有价值？",
+  "Featured on Meta": "在 Meta 上特色",
+  "Review queue workflows - Final release....": "审查队列工作流程 - 最终版本....",
+  "Please welcome Valued Associates: #958 - V2Blast #959 - SpencerG": "欢迎 Valued Associates：#958 - V2Blast #959 - SpencerG",
+  "Outdated Answers: accepted answer is now unpinned on Stack Overflow": "过时的答案：接受的答案现在不再固定在 Stack Overflow 上",
+  "Hot Meta Posts": "热门 Meta 帖子",
+  "Why was this spam flag declined, yet the question marked as spam?": "为什么此垃圾邮件标志被拒绝，但问题被标记为垃圾邮件？",
+  "What is the best course of action when a user has high enough rep to...": "当用户具有足够高的声誉时，最佳行动方案是什么...",
+  "Is a link to the 'How to ask' help page a useful comment?": "链接到“如何提问”帮助页面是一个有用的评论吗？",
+
+  "askQuestion.title": "提问一个公共问题",
+  "askQuestion.labels.title": "标题",
+  "askQuestion.labels.titlePlaceholder": "具体些，想象你在向另一个人提问",
+  "askQuestion.labels.body": "正文",
+  "askQuestion.labels.bodyPlaceholder": "包括回答您的问题所需的所有信息",
+  "askQuestion.labels.tags": "标签",
+  "askQuestion.labels.tagsPlaceholder": "添加最多 5 个标签来描述您的问题",
+  "askQuestion.submit": "检查你的问题",
+  "auth.displayName": "显示名称",
+  "auth.email": "电子邮件",
+  "auth.password": "密码",
+  "auth.passwordHint": "密码必须包含至少八个字符，包括至少1个字母和1个数字",
+  "auth.optIn": "选择接收偶尔的产品更新、用户研究邀请、公司公告和摘要。",
+  "auth.signup": "注册",
+  "auth.login": "登录",
+  "auth.agreement": "点击\"注册\"即表示您同意我们的服务条款、隐私政策和Cookie政策",
+  "auth.alreadyHaveAccount": "已经有账户？",
+  "auth.dontHaveAccount": "没有账户？",
+  "auth.forgotPassword": "忘记密码",
+  "about.joinCommunity": "加入 Stack Overflow 社区",
+  "about.getUnstuck": "解困 — 提问",
+  "about.unlockPrivileges": "解锁新的特权，如投票和评论",
+  "about.saveFavorites": "保存您喜爱的标签、过滤器和工作",
+  "about.earnReputation": "获得声誉和徽章",
+  "about.collaborateShare": "与一个私密群组合作并分享知识",
+  "about.getTeamsFree": "最多可为 50 名用户免费获取 Stack Overflow for Teams。",
+  "home.topQuestion": "热门问题",
+  "home.allQuestion": "所有问题",
+  "home.askQuestion": "提问",
+  "home.loginSignupAlert": "登录或注册以提问",
+  "home.loading": "加载中....",
+  "home.questionCount": "问题",
+  "questionDetails.askQuestion": "提问",
+  "questionDetails.enterAnswer": "提交前输入答案",
+  "questionDetails.loginToAnswer": "登录或注册以回答问题",
+  "questionDetails.share": "分享",
+  "questionDetails.delete": "删除",
+  "questionDetails.asked": "提问于",
+  "questionDetails.yourAnswer": "你的回答",
+  "questionDetails.postYourAnswer": "发布你的回答",
+  "questionDetails.browseOtherQuestions": "浏览其他标记的问题",
+  "questionDetails.or": "或",
+  "questionDetails.askYourOwnQuestion": "提问你自己的问题",
+
+    "tags": "标签",
+    "description1": "标签是一个关键词或标签，将您的问题与其他类似问题分类。",
+    "description2": "使用正确的标签可以让其他人更容易找到并回答您的问题",
+    "tagsList": {
+      "javascript": {
+        "title": "javascript",
+        "description": "关于 ECMAScript (JavaScript/JS) 及其各种方言/实现（不包括 ActionScript）的编程问题。请在您的问题中包含所有相关标签。"
+      },
+      "python": {
+        "title": "python",
+        "description": "Python 是一种多范式、动态类型、多用途的编程语言。它的设计旨在快速学习、理解和使用，并强制执行干净统一的语法。"
+      },
+      "csharp": {
+        "title": "c#",
+        "description": "C#（读作 'see sharp'）是微软开发的一种高级、静态类型、多范式编程语言。"
+      },
+      "java": {
+        "title": "java",
+        "description": "Java 是一种高级面向对象编程语言。遇到使用或理解该语言的问题时，请使用此标签。"
+      },
+      "php": {
+        "title": "php",
+        "description": "PHP 是一种广泛使用的开源通用多范式动态类型脚本语言，最初设计用于服务器端 Web 开发。"
+      },
+      "html": {
+        "title": "html",
+        "description": "HTML（超文本标记语言）是用于创建网页和在 Web 浏览器中显示的其他信息的标记语言。"
+      },
+      "android": {
+        "title": "android",
+        "description": "Android 是谷歌的移动操作系统，用于编程或开发数字设备（智能手机、平板电脑、汽车、电视、可穿戴设备、眼镜、物联网）。"
+      },
+      "css": {
+        "title": "css",
+        "description": "CSS 是一种表示样式表语言，用于描述 HTML、XML 文档和 SVG 元素的外观和格式，包括颜色、布局、字体和动画。"
+      },
+      "reactjs": {
+        "title": "Reactjs",
+        "description": "React 是一个用于构建用户界面的 JavaScript 库。它使用声明性、基于组件的范式，旨在高效且灵活。"
+      },
+      "nodejs": {
+        "title": "node.js",
+        "description": "Node.js 是一个基于事件的非阻塞异步 I/O 运行时，使用谷歌的 V8 JavaScript 引擎和 libuv 库。"
+      }
+    }
+    
+}

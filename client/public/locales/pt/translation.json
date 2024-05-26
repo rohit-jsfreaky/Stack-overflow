@@ -1,0 +1,116 @@
+{
+
+  "Home": "Início",
+      "PUBLIC": "PÚBLICO",
+      "Questions": "Perguntas",
+      "Tags": "Tags",
+      "Users": "Usuários",
+      "Search": "Pesquisar...",
+      "About": "Sobre",
+      "Products": "Produtos",
+      "For Teams": "Para equipes",
+      "Login": "Entrar",
+      "Logout": "Sair",
+  "1_right": "Barra Lateral Direita",
+  "Observability is key to the future of software (and your DevOps career)": "A observabilidade é fundamental para o futuro do software (e para a sua carreira DevOps)",
+  "Podcast 374: How valuable is your screen name?": "Podcast 374: Qual é o valor do seu nome de tela?",
+  "Featured on Meta": "Destaque no Meta",
+  "Review queue workflows - Final release....": "Fluxos de trabalho de fila de revisão - Versão final....",
+  "Please welcome Valued Associates: #958 - V2Blast #959 - SpencerG": "Dê as boas-vindas aos Associados Valorizados: #958 - V2Blast #959 - SpencerG",
+  "Outdated Answers: accepted answer is now unpinned on Stack Overflow": "Respostas desatualizadas: a resposta aceita agora não está mais fixada no Stack Overflow",
+  "Hot Meta Posts": "Postagens Quentes no Meta",
+  "Why was this spam flag declined, yet the question marked as spam?": "Por que esta bandeira de spam foi recusada, mas a pergunta foi marcada como spam?",
+  "What is the best course of action when a user has high enough rep to...": "Qual é o melhor curso de ação quando um usuário tem reputação alta o suficiente para...",
+  "Is a link to the 'How to ask' help page a useful comment?": "Um link para a página de ajuda 'Como perguntar' é um comentário útil?",
+  "askQuestion.title": "Faça uma pergunta pública",
+  "askQuestion.labels.title": "Título",
+  "askQuestion.labels.titlePlaceholder": "Seja específico e imagine que você está fazendo uma pergunta para outra pessoa",
+  "askQuestion.labels.body": "Corpo",
+  "askQuestion.labels.bodyPlaceholder": "Inclua todas as informações que alguém precisaria para responder à sua pergunta",
+  "askQuestion.labels.tags": "Etiquetas",
+  "askQuestion.labels.tagsPlaceholder": "Adicione até 5 etiquetas para descrever sobre o que é a sua pergunta",
+  "askQuestion.submit": "Revise sua pergunta",
+  "auth.displayName": "Nome de exibição",
+  "auth.email": "Email",
+  "auth.password": "Senha",
+  "auth.passwordHint": "A senha deve conter pelo menos oito caracteres, incluindo pelo menos 1 letra e 1 número",
+  "auth.optIn": "Opte por receber atualizações ocasionais de produtos, convites para pesquisas de usuários, anúncios da empresa e resumos.",
+  "auth.signup": "Inscreva-se",
+  "auth.login": "Entrar",
+  "auth.agreement": "Ao clicar em \"Inscreva-se\", você concorda com nossos termos de serviços, política de privacidade e política de cookies",
+  "auth.alreadyHaveAccount": "Já tem uma conta?",
+  "auth.dontHaveAccount": "Não tem uma conta?",
+  "auth.forgotPassword": "Esqueceu a senha",
+  "about.joinCommunity": "Junte-se à comunidade Stack Overflow",
+  "about.getUnstuck": "Desbloqueie — faça uma pergunta",
+  "about.unlockPrivileges": "Desbloqueie novos privilégios como votar e comentar",
+  "about.saveFavorites": "Salve suas tags, filtros e trabalhos favoritos",
+  "about.earnReputation": "Ganhe reputação e emblemas",
+  "about.collaborateShare": "Colabore e compartilhe conhecimentos com um grupo privado para",
+  "about.getTeamsFree": "Obtenha Stack Overflow for Teams gratuitamente para até 50 usuários.",
+  "home.topQuestion": "Pergunta Principal",
+  "home.allQuestion": "Todas as Perguntas",
+  "home.askQuestion": "Fazer uma Pergunta",
+  "home.loginSignupAlert": "Faça login ou cadastre-se para fazer uma pergunta",
+  "home.loading": "Carregando....",
+  "home.questionCount": "pergunta",
+  "questionDetails.askQuestion": "Fazer uma Pergunta",
+  "questionDetails.enterAnswer": "Digite uma resposta antes de enviar",
+  "questionDetails.loginToAnswer": "Faça login ou cadastre-se para responder uma pergunta",
+  "questionDetails.share": "Compartilhar",
+  "questionDetails.delete": "Excluir",
+  "questionDetails.asked": "Perguntado ",
+  "questionDetails.yourAnswer": "Sua Resposta",
+  "questionDetails.postYourAnswer": "Poste Sua Resposta",
+  "questionDetails.browseOtherQuestions": "Navegar por outras perguntas etiquetadas",
+  "questionDetails.or": "ou",
+  "questionDetails.askYourOwnQuestion": "faça sua própria pergunta",
+
+  
+    "tags": "Tags",
+    "description1": "Uma tag é uma palavra-chave ou rótulo que categoriza sua pergunta com outras perguntas semelhantes.",
+    "description2": "Usar as tags certas facilita para os outros encontrarem e responderem à sua pergunta",
+    "tagsList": {
+      "javascript": {
+        "title": "javascript",
+        "description": "Para perguntas sobre programação em ECMAScript (JavaScript/JS) e seus vários dialetos/implementações (excluindo ActionScript). Por favor, inclua todas as tags relevantes na sua pergunta."
+      },
+      "python": {
+        "title": "python",
+        "description": "Python é uma linguagem de programação multiparadigma, dinamicamente tipada e multiuso. É projetado para ser rápido de aprender, entender e usar e aplica uma sintaxe limpa e uniforme."
+      },
+      "csharp": {
+        "title": "c#",
+        "description": "C# (pronunciado 'see sharp') é uma linguagem de programação de alto nível, tipada estaticamente e multiparadigma desenvolvida pela Microsoft."
+      },
+      "java": {
+        "title": "java",
+        "description": "Java é uma linguagem de programação orientada a objetos de alto nível. Use esta tag quando você tiver problemas ao usar ou entender a própria linguagem."
+      },
+      "php": {
+        "title": "php",
+        "description": "PHP é uma linguagem de script amplamente usada, de código aberto, de uso geral, multiparadigma, tipada dinamicamente e interpretada originalmente projetada para desenvolvimento web no lado do servidor."
+      },
+      "html": {
+        "title": "html",
+        "description": "HTML (HyperText Markup Language) é a linguagem de marcação para criar páginas da web e outras informações a serem exibidas em um navegador da web."
+      },
+      "android": {
+        "title": "android",
+        "description": "Android é o sistema operacional móvel do Google, usado para programar ou desenvolver dispositivos digitais (smartphones, tablets, automóveis, TVs, Wear, Glass, IoT)."
+      },
+      "css": {
+        "title": "css",
+        "description": "CSS é uma linguagem de folha de estilo usada para descrever a aparência e o formato de documentos HTML, XML e elementos SVG, incluindo cores, layout, fontes e animações."
+      },
+      "reactjs": {
+        "title": "Reactjs",
+        "description": "React é uma biblioteca JavaScript para criar interfaces de usuário. Ele usa um paradigma declarativo e baseado em componentes e visa ser eficiente e flexível."
+      },
+      "nodejs": {
+        "title": "node.js",
+        "description": "Node.js é um runtime de E/S não bloqueante, baseado em eventos e assíncrono que usa o motor JavaScript V8 do Google e a biblioteca libuv."
+      }
+    }
+    
+}

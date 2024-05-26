@@ -1,0 +1,101 @@
+{
+  "1_right": "Right Sidebar",
+  "Observability is key to the future of software (and your DevOps career)": "Observability is key to the future of software (and your DevOps career)",
+  "Podcast 374: How valuable is your screen name?": "Podcast 374: How valuable is your screen name?",
+  "Featured on Meta": "Featured on Meta",
+  "Review queue workflows - Final release....": "Review queue workflows - Final release....",
+  "Please welcome Valued Associates: #958 - V2Blast #959 - SpencerG": "Please welcome Valued Associates: #958 - V2Blast #959 - SpencerG",
+  "Outdated Answers: accepted answer is now unpinned on Stack Overflow": "Outdated Answers: accepted answer is now unpinned on Stack Overflow",
+  "Hot Meta Posts": "Hot Meta Posts",
+  "Why was this spam flag declined, yet the question marked as spam?": "Why was this spam flag declined, yet the question marked as spam?",
+  "What is the best course of action when a user has high enough rep to...": "What is the best course of action when a user has high enough rep to...",
+  "Is a link to the 'How to ask' help page a useful comment?": "Is a link to the 'How to ask' help page a useful comment?",
+  "askQuestion.title": "Ask a public question",
+  "askQuestion.labels.title": "Title",
+  "askQuestion.labels.titlePlaceholder": "Be specific and imagine you're asking a question to another person",
+  "askQuestion.labels.body": "Body",
+  "askQuestion.labels.bodyPlaceholder": "Include all the information someone would need to answer your question",
+  "askQuestion.labels.tags": "Tags",
+  "askQuestion.labels.tagsPlaceholder": "Add up to 5 tags to describe what your question is about",
+  "askQuestion.submit": "Review your question",
+  "auth.displayName": "Display name",
+  "auth.email": "Email",
+  "auth.password": "Password",
+  "auth.passwordHint": "Password must contains at least eight characters, including at least 1 letter and 1 number",
+  "auth.optIn": "Opt-in to receive occasional product updates, user research invitations, company announcements, and digests.",
+  "auth.signup": "Sign up",
+  "auth.login": "Log in",
+  "auth.agreement": "By clicking \"Sign up\", you agree to our terms of services, privacy policy, and cookie policy",
+  "auth.alreadyHaveAccount": "Already have an account?",
+  "auth.dontHaveAccount": "Don't have an account?",
+  "auth.forgotPassword": "Forgot Password",
+  "about.joinCommunity": "Join the Stack Overflow community",
+  "about.getUnstuck": "Get unstuck — ask a question",
+  "about.unlockPrivileges": "Unlock new privileges like voting and commenting",
+  "about.saveFavorites": "Save your favorite tags, filters, and jobs",
+  "about.earnReputation": "Earn reputation and badges",
+  "about.collaborateShare": "Collaborate and share knowledge with a private group for",
+  "about.getTeamsFree": "Get Stack Overflow for Teams free for up to 50 users.",
+  "home.topQuestion": "Top Question",
+  "home.allQuestion": "All Question",
+  "home.askQuestion": "Ask Question",
+  "home.loginSignupAlert": "Login or Signup to Ask a Question",
+  "home.loading": "Loading....",
+  "home.questionCount": " question",
+  "questionDetails.askQuestion": "Ask a Question",
+  "questionDetails.enterAnswer": "Enter an answer before submitting",
+  "questionDetails.loginToAnswer": "Login or sign up to answer a question",
+  "questionDetails.share": "Share",
+  "questionDetails.delete": "Delete",
+  "questionDetails.asked": "Asked",
+  "questionDetails.yourAnswer": "Your Answer",
+  "questionDetails.postYourAnswer": "Post Your Answer",
+  "questionDetails.browseOtherQuestions": "Browse other questions tagged",
+  "questionDetails.or": "or",
+  "questionDetails.askYourOwnQuestion": "ask your own question",
+  "tags": "Tags",
+  "description1": "A tag is a keyword or label that categorizes your question with other, similar questions.",
+  "description2": "Using the right tags make it easier for others to find and answer your question",
+  "tagsList": {
+    "javascript": {
+      "title": "javascript",
+      "description": "For questions regarding programming in ECMAScript (JavaScript/JS) and its various dialects/implementations (excluding ActionScript). Please include all relevant tags on your question."
+    },
+    "python": {
+      "title": "python",
+      "description": "Python is a multi-paradigm, dynamically typed, multipurpose programming language. It is designed to be quick to learn, understand, and use, and enforces a clean and uniform syntax."
+    },
+    "csharp": {
+      "title": "c#",
+      "description": "C# (pronounced 'see sharp') is a high level, statically typed, multi-paradigm programming language developed by Microsoft."
+    },
+    "java": {
+      "title": "java",
+      "description": "Java is a high-level object oriented programming language. Use this tag when you're having problems using or understanding the language itself."
+    },
+    "php": {
+      "title": "php",
+      "description": "PHP is a widely used, open source, general-purpose, multi-paradigm, dynamically typed and interpreted scripting language originally designed for server-side web development."
+    },
+    "html": {
+      "title": "html",
+      "description": "HTML (HyperText Markup Language) is the markup language for creating web pages and other information to be displayed in a web browser."
+    },
+    "android": {
+      "title": "android",
+      "description": "Android is Google's mobile operating system, used for programming or developing digital devices (Smartphones, Tablets, Automobiles, TVs, Wear, Glass, IoT)."
+    },
+    "css": {
+      "title": "css",
+      "description": "CSS is a representation style sheet language used for describing the look and formatting of HTML, XML documents and SVG elements including colors, layout, fonts, and animations."
+    },
+    "reactjs": {
+      "title": "Reactjs",
+      "description": "React is a JavaScript library for building user interfaces. It uses a declarative, component-based paradigm and aims to be both efficient and flexible."
+    },
+    "nodejs": {
+      "title": "node.js",
+      "description": "Node.js is an event-based, non-blocking, asynchronous I/O runtime that uses Google's V8 JavaScript engine and libuv library."
+    }
+  }
+}

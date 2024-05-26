@@ -1,0 +1,114 @@
+{
+
+  "Home": "मुख पृष्ठ",
+      "PUBLIC": "सार्वजनिक",
+      "Questions": "प्रश्न",
+      "Tags": "टैग",
+      "Users": "उपयोगकर्ता",
+      "Search": "खोजें...",
+      "About": "के बारे में",
+      "Products": "उत्पाद",
+      "For Teams": "टीमों के लिए",
+      "Login": "लॉग इन करें",
+      "Logout": "लॉग आउट",
+  "1_right": "दाएं साइडबार",
+  "Observability is key to the future of software (and your DevOps career)": "ज्ञातता सॉफ़्टवेयर (और आपके डेवओप्स करियर) के भविष्य की कुंजी है",
+  "Podcast 374: How valuable is your screen name?": "पॉडकास्ट 374: आपका स्क्रीन नाम कितना मूल्यवान है?",
+  "Featured on Meta": "मेटा पर प्रमुख",
+  "Review queue workflows - Final release....": "समीक्षा कतार वर्कफ़्लो - अंतिम रिलीज....",
+  "Please welcome Valued Associates: #958 - V2Blast #959 - SpencerG": "कृपया मूल्यवान सहयोगी आमंत्रित करें: #958 - V2Blast #959 - स्पेंसरजी",
+  "Outdated Answers: accepted answer is now unpinned on Stack Overflow": "पुराने उत्तर: स्वीकृत उत्तर अब स्टैक ओवरफ़्लो पर अनपिन है",
+  "Hot Meta Posts": "हॉट मेटा पोस्ट",
+  "Why was this spam flag declined, yet the question marked as spam?": "क्यों इस स्पैम ध्वज को इनकार किया गया, फिर भी प्रश्न को स्पैम के रूप में चिह्नित किया गया था?",
+  "What is the best course of action when a user has high enough rep to...": "जब एक उपयोगकर्ता के पास पर्याप्त रेप होता है, तो सबसे अच्छा कार्य क्या है...",
+  "Is a link to the 'How to ask' help page a useful comment?": "'पूछने के लिए' सहायता पृष्ठ के लिए एक लिंक एक उपयोगी टिप्पणी है?",
+  "askQuestion.title": "एक सार्वजनिक प्रश्न पूछें",
+  "askQuestion.labels.title": "शीर्षक",
+  "askQuestion.labels.titlePlaceholder": "विशिष्ट रहें और सोचें कि आप किसी दूसरे व्यक्ति से सवाल पूछ रहे हैं",
+  "askQuestion.labels.body": "शरीर",
+  "askQuestion.labels.bodyPlaceholder": "अपने सवाल का जवाब देने के लिए कोई भी जानकारी शामिल करें",
+  "askQuestion.labels.tags": "टैग्स",
+  "askQuestion.labels.tagsPlaceholder": "अपने प्रश्न का विवरण करने के लिए अधिकतम 5 टैग जोड़ें",
+  "askQuestion.submit": "अपना प्रश्न समीक्षा करें",
+  "auth.displayName": "प्रदर्शित नाम",
+  "auth.email": "ईमेल",
+  "auth.password": "पासवर्ड",
+  "auth.passwordHint": "पासवर्ड में कम से कम आठ वर्ण होने चाहिए, जिसमें कम से कम 1 अक्षर और 1 संख्या शामिल हो",
+  "auth.optIn": "कभी-कभी उत्पाद अपडेट, उपयोगकर्ता अनुसंधान निमंत्रण, कंपनी घोषणाएं और डाइजेस्ट प्राप्त करने के लिए ऑप्ट-इन करें।",
+  "auth.signup": "साइन अप करें",
+  "auth.login": "लॉगिन",
+  "auth.agreement": "साइन अप पर क्लिक करके, आप हमारी सेवा की शर्तें, गोपनीयता नीति और कुकी नीति से सहमत होते हैं",
+  "auth.alreadyHaveAccount": "क्या आपके पास पहले से एक खाता है?",
+  "auth.dontHaveAccount": "क्या आपका खाता नहीं है?",
+  "auth.forgotPassword": "पासवर्ड भूल गए",
+  "about.joinCommunity": "Stack Overflow समुदाय में शामिल हों",
+  "about.getUnstuck": "अटक जाओ — एक सवाल पूछो",
+  "about.unlockPrivileges": "वोटिंग और टिप्पणी जैसी नई विशेषताएं अनलॉक करें",
+  "about.saveFavorites": "अपने पसंदीदा टैग, फ़िल्टर और नौकरियों को सहेजें",
+  "about.earnReputation": "प्रतिष्ठा और बैज अर्जित करें",
+  "about.collaborateShare": "के लिए एक निजी समूह के साथ सहयोग करें और ज्ञान साझा करें",
+  "about.getTeamsFree": "50 उपयोगकर्ताओं तक के लिए Stack Overflow for Teams निःशुल्क प्राप्त करें।",
+  "home.topQuestion": "शीर्ष प्रश्न",
+  "home.allQuestion": "सभी प्रश्न",
+  "home.askQuestion": "प्रश्न पूछें",
+  "home.loginSignupAlert": "प्रश्न पूछने के लिए लॉगिन या साइन अप करें",
+  "home.loading": "लोड हो रहा है....",
+  "home.questionCount": "प्रश्न",
+  "questionDetails.askQuestion": "प्रश्न पूछें",
+  "questionDetails.enterAnswer": "जमा करने से पहले उत्तर दर्ज करें",
+  "questionDetails.loginToAnswer": "प्रश्न का उत्तर देने के लिए लॉगिन करें या साइन अप करें",
+  "questionDetails.share": "साझा करें",
+  "questionDetails.delete": "हटाएं",
+  "questionDetails.asked": "पूछा गया ",
+  "questionDetails.yourAnswer": "आपका उत्तर",
+  "questionDetails.postYourAnswer": "अपना उत्तर पोस्ट करें",
+  "questionDetails.browseOtherQuestions": "अन्य टैग किए गए प्रश्न देखें",
+  "questionDetails.or": "या",
+  "questionDetails.askYourOwnQuestion": "अपना स्वयं का प्रश्न पूछें",
+    "tags": "टैग",
+    "description1": "एक टैग एक कीवर्ड या लेबल है जो आपके प्रश्न को अन्य समान प्रश्नों के साथ वर्गीकृत करता है।",
+    "description2": "सही टैग का उपयोग करने से अन्य लोगों के लिए आपके प्रश्न को ढूंढना और उसका उत्तर देना आसान हो जाता है",
+    "tagsList": {
+      "javascript": {
+        "title": "जावास्क्रिप्ट",
+        "description": "ECMAScript (जावास्क्रिप्ट/JS) और इसके विभिन्न बोलियों/कार्यान्वयनों (एक्शनस्क्रिप्ट को छोड़कर) में प्रोग्रामिंग के बारे में प्रश्नों के लिए। कृपया अपने प्रश्न पर सभी संबंधित टैग शामिल करें।"
+      },
+      "python": {
+        "title": "पायथन",
+        "description": "पायथन एक बहु-पैरा, डायनामिक रूप से टाइप किया गया, बहुउद्देश्यीय प्रोग्रामिंग भाषा है। इसे सीखना, समझना और उपयोग करना त्वरित बनाने के लिए डिज़ाइन किया गया है, और एक साफ और समान वाक्यविन्यास को लागू करता है।"
+      },
+      "csharp": {
+        "title": "c#",
+        "description": "C# (उच्चारित 'सी शार्प') एक उच्च स्तरीय, स्थिर रूप से टाइप किया गया, बहु-पैरा प्रोग्रामिंग भाषा है जिसे माइक्रोसॉफ्ट द्वारा विकसित किया गया है।"
+      },
+      "java": {
+        "title": "जावा",
+        "description": "जावा एक उच्च स्तरीय ऑब्जेक्ट ओरिएंटेड प्रोग्रामिंग भाषा है। इस टैग का उपयोग तब करें जब आपको भाषा का उपयोग करने या समझने में समस्या हो।"
+      },
+      "php": {
+        "title": "पीएचपी",
+        "description": "PHP एक व्यापक रूप से उपयोग किया जाने वाला, ओपन सोर्स, सामान्य उद्देश्य वाला, बहु-पैरा, डायनामिक रूप से टाइप किया गया और व्याख्यायित स्क्रिप्टिंग भाषा है जिसे मूल रूप से सर्वर-साइड वेब विकास के लिए डिज़ाइन किया गया है।"
+      },
+      "html": {
+        "title": "html",
+        "description": "HTML (हाइपरटेक्स्ट मार्कअप लैंग्वेज) वेब पेज बनाने और एक वेब ब्राउज़र में प्रदर्शित होने वाली अन्य जानकारी के लिए मार्कअप भाषा है।"
+      },
+      "android": {
+        "title": "एंड्रॉइड",
+        "description": "एंड्रॉइड गूगल का मोबाइल ऑपरेटिंग सिस्टम है, जिसका उपयोग डिजिटल उपकरणों (स्मार्टफोन, टैबलेट, ऑटोमोबाइल, टीवी, वेयर, ग्लास, IoT) को प्रोग्राम या विकसित करने के लिए किया जाता है।"
+      },
+      "css": {
+        "title": "css",
+        "description": "CSS एक प्रतिनिधित्व शैली पत्रक भाषा है जिसका उपयोग HTML, XML दस्तावेज़ों और SVG तत्वों के स्वरूप और प्रारूप का वर्णन करने के लिए किया जाता है जिसमें रंग, लेआउट, फोंट और एनिमेशन शामिल हैं।"
+      },
+      "reactjs": {
+        "title": "Reactjs",
+        "description": "React एक जावास्क्रिप्ट लाइब्रेरी है जो उपयोगकर्ता इंटरफेस बनाने के लिए उपयोग की जाती है। यह एक घोषणात्मक, घटक-आधारित प्रतिमान का उपयोग करता है और कुशल और लचीला दोनों होने का उद्देश्य रखता है।"
+      },
+      "nodejs": {
+        "title": "node.js",
+        "description": "Node.js एक घटना-आधारित, गैर-अवरुद्ध, एसिंक्रोनस I/O रनटाइम है जो गूगल के V8 जावास्क्रिप्ट इंजन और libuv लाइब्रेरी का उपयोग करता है।"
+      }
+    }
+    
+}
