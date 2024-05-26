@@ -1,6 +1,6 @@
 import axios from "axios"
 
-const API = axios.create({ baseURL: 'http://localhost:5000/' })
+const API = axios.create({ baseURL: 'https://stack-overflow-gamma-orcin.vercel.app/' })
 
 
 export const logIn = (authdata) => API.post('/user/login', authdata);
