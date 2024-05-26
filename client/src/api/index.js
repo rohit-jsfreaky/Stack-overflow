@@ -1,6 +1,6 @@
 import axios from "axios"
 
-const API = axios.create({ baseURL: 'https://stack-overflow-eight-xi.vercel.app/' })
+const API = axios.create({ baseURL: 'https://stack-overflow-delta-lemon.vercel.app/' })
 
 
 export const logIn = (authdata) => API.post('/user/login', authdata);
