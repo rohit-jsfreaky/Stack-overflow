@@ -114,8 +114,8 @@ export const forgotPassword = async (req, res) => {
 
 export const resetPassword = async (req, res) => {
 
-  const { id: _id } = req.params;
-  const { token } = req.params;
+  const { id: _id } = req.body;
+  const { token } = req.body;
   const { pass } = req.body;
 
 

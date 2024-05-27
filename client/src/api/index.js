@@ -40,7 +40,7 @@ export const forgotPassword = (email) => {
 
 export const resetPassword = (token,id,pass) =>{
     console.log("reset api hit");
-    return API.patch(`/User/reset-password/${id}/${token}` , {pass : pass});
+    return API.patch(`/User/reset-password` , {pass : pass ,id : id ,token :token});
 }
 
 export const sendOtp = (email)=>{
